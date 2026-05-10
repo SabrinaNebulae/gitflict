@@ -1,4 +1,4 @@
-# gitflict 🦀
+# Gitflict 
 
 Visualize git merge conflicts side by side in your terminal.
 
